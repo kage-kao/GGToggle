@@ -4,8 +4,8 @@
 
 ## Скачать
 
-- **Готовый JAR:** [GGToggle.jar](1)
-- **Исходники ZIP:** [GGToggle-source.zip](2)
+- **Готовый JAR:** [GGToggle.jar](https://raw.githubusercontent.com/kage-kao/GGToggle/main/GGToggle.jar)
+- **Исходники ZIP:** [GGToggle-source.zip](https://raw.githubusercontent.com/kage-kao/GGToggle/main/GGToggle-source.zip)
 
 ## Требования
 
