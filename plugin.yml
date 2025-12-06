@@ -1,0 +1,24 @@
+name: GGToggle
+main: com.example.ggtoggle.GGToggle
+version: 2.0
+api: ["2.0.0"]
+author: YourName
+description: Give players ability to toggle their gamemode
+
+commands:
+  gg:
+    description: Manage player gamemode toggle permission
+    usage: "/gg <nick> | /gg remove <nick> | /gg list"
+    permission: ggtoggle.admin
+  gm:
+    description: Toggle your gamemode (if allowed)
+    usage: /gm
+    permission: ggtoggle.use
+
+permissions:
+  ggtoggle.admin:
+    description: Allows managing player permissions
+    default: op
+  ggtoggle.use:
+    description: Allows using /gm command
+    default: true
