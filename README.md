@@ -1,4 +1,4 @@
-# GGToggle Plugin v2.0 для PowerNukkitX 2.0
+## GGToggle Plugin v2.0 для PowerNukkitX 2.0
 
 Плагин для выдачи игрокам права переключать свой игровой режим.
 
